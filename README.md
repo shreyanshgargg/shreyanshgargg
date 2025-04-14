@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshgargg&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshgargg" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shreyanshtwt" target="blank"><img src="https://img.shields.io/twitter/follow/shreyanshtwt?logo=twitter&style=for-the-badge" alt="shreyanshtwt" /></a> </p>
 
 - 🌱 I’m currently learning **Golang and Devops Tools**
 
