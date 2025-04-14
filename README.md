@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning **Golang and Devops Tools**
 
-- 📝 I regularly write articles on [https://shreyanshdevops.hashnode.dev/](https://shreyanshdevops.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://shreyanshdevops.hashnode.dev/)
+
 
 - 📫 How to reach me **shreyanshagarg834@gmail.com**
 
